@@ -2,4 +2,13 @@
   color: #0829DB;
   width: 300px;
   margin-top: 10px;
+  font-weight: bold;
 }
+
+a, a:hover {
+  color:#999999;
+}
+H1, h1 {
+  color: #333333;
+}
+
