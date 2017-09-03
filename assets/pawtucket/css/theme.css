@@ -5,6 +5,10 @@
   font-weight: bold;
 }
 
+#footer ul a {
+  color:#999999;
+}
+
 a, a:hover {
   color:#999999;
 }

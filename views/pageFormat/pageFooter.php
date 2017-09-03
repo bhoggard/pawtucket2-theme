@@ -36,6 +36,7 @@
 			<!-- 	Footer text here -->
 			</div>
 			<ul class="list-inline">
+<?php print caNavLink($this->request, 'Copyright', '', '', 'About', 'Copyright'); ?>
 <!--
 				<li><a href="#">Link 1</a></li>
 				<li><a href="#">Link 2</a></li>
